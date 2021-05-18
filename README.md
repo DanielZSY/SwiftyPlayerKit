@@ -1,6 +1,6 @@
 # SwiftyPlayerKit
 
-[![CI Status](https://img.shields.io/travis/cdzhangshuangyu/SwiftyPlayerKit.svg?style=flat)](https://travis-ci.org/cdzhangshuangyu/SwiftyPlayerKit)
+[![CI Status](https://img.shields.io/travis/DanielZSY/SwiftyPlayerKit.svg?style=flat)](https://travis-ci.org/DanielZSY/SwiftyPlayerKit)
 [![Version](https://img.shields.io/cocoapods/v/SwiftyPlayerKit.svg?style=flat)](https://cocoapods.org/pods/SwiftyPlayerKit)
 [![License](https://img.shields.io/cocoapods/l/SwiftyPlayerKit.svg?style=flat)](https://cocoapods.org/pods/SwiftyPlayerKit)
 [![Platform](https://img.shields.io/cocoapods/p/SwiftyPlayerKit.svg?style=flat)](https://cocoapods.org/pods/SwiftyPlayerKit)
@@ -22,7 +22,7 @@ pod 'SwiftyPlayerKit'
 
 ## Author
 
-cdzhangshuangyu, danielzsy@126.com
+DanielZSY, danielzsy@126.com
 
 ## License
 

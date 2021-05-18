@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  SwiftyPlayerKit
 //
-//  Created by cdzhangshuangyu on 05/18/2021.
-//  Copyright (c) 2021 cdzhangshuangyu. All rights reserved.
+//  Created by DanielZSY on 05/18/2021.
+//  Copyright (c) 2021 DanielZSY. All rights reserved.
 //
 
 import UIKit
